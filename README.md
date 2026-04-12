@@ -2,27 +2,14 @@
 
 ## 📌 Overview
 
-This project analyzes COVID-19 risk data using Power BI to identify key patterns in risk distribution across provinces, gender, and causes.
+This project analyzes COVID-19 risk data in Thailand using Power BI. The objective is to identify patterns of risk distribution across provinces, gender, and risk factors to support data-driven insights.
 
 ---
-
-## 📁 Data Source
-
-This dataset is obtained from:
-
-* COVID-19 Daily Data (Thailand)
-* Source: https://data.go.th/dataset/covid-19-daily
-* Provided by the Government Data Center and Cloud Service (GDCC)
-
----
-
-**Note:** This project is for educational and analytical purposes only.
-
 
 ## 📁 Dataset
 
-* Source: Public COVID-19 dataset (Thailand)
-* Columns:
+* COVID-19 Daily Data (Thailand)
+* Includes:
 
   * province_of_isolation
   * sex
@@ -32,9 +19,10 @@ This dataset is obtained from:
 
 ## 🧹 Data Cleaning
 
-* Removed duplicates
-* Handled missing values
-* Standardized data format
+* Removed duplicate records
+* Handled missing (null) values
+* Standardized text and data formats
+* Corrected inconsistent values (e.g., gender categories)
 
 ---
 
@@ -46,11 +34,21 @@ This dataset is obtained from:
 
 ## 🔍 Key Insights
 
-*Bangkok has the highest level of risk by a significant margin.
-*Female individuals show a higher number of at-risk cases compared to males, especially in Bangkok.
-*Most risk factors are categorized under "Others."
-*Close contact with confirmed cases is the second most significant risk factor.
-*Risk is concentrated both geographically (in Bangkok) and by specific causes.
+* Bangkok has the highest level of risk by a significant margin.
+* Female individuals show a higher number of at-risk cases compared to males, especially in Bangkok.
+* Most risk factors are categorized under "Others," indicating a lack of detailed classification.
+* Close contact with confirmed cases is the second most significant risk factor.
+* Risk is concentrated both geographically (in Bangkok) and by specific causes.
+
+---
+
+## 📁 Data Source
+
+This dataset is obtained from:
+
+* https://data.go.th/dataset/covid-19-daily
+* Provided by Government Data Center and Cloud Service (GDCC)
+
 ---
 
 ## 🛠 Tools Used
@@ -59,3 +57,7 @@ This dataset is obtained from:
 * Microsoft Excel
 
 ---
+
+## 🚀 Author
+
+Weerapat unkaeo
