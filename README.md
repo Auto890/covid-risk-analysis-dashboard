@@ -50,4 +50,4 @@ This project analyzes COVID-19 risk data using Power BI to identify key patterns
 
 ## 🚀 Author
 
-Your Name
+Weerapat
