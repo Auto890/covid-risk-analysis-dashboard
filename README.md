@@ -46,12 +46,11 @@ This dataset is obtained from:
 
 ## 🔍 Key Insights
 
-* กรุงเทพมหานครเป็นพื้นที่ที่มีความเสี่ยงสูงที่สุดอย่างมีนัยสำคัญ
-* ผู้หญิงมีจำนวนผู้เสี่ยงมากกว่าผู้ชาย โดยเฉพาะในกรุงเทพมหานคร
-* สาเหตุความเสี่ยงส่วนใหญ่ถูกจัดอยู่ในหมวด "อื่นๆ"
-* การสัมผัสใกล้ชิดกับผู้ป่วยยืนยันเป็นปัจจัยเสี่ยงหลักอันดับสอง
-* ความเสี่ยงมีลักษณะกระจุกตัวทั้งในเชิงพื้นที่และเชิงสาเหตุ
-
+*Bangkok has the highest level of risk by a significant margin.
+*Female individuals show a higher number of at-risk cases compared to males, especially in Bangkok.
+*Most risk factors are categorized under "Others."
+*Close contact with confirmed cases is the second most significant risk factor.
+*Risk is concentrated both geographically (in Bangkok) and by specific causes.
 ---
 
 ## 🛠 Tools Used
