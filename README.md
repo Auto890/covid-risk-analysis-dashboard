@@ -6,6 +6,19 @@ This project analyzes COVID-19 risk data using Power BI to identify key patterns
 
 ---
 
+## 📁 Data Source
+
+This dataset is obtained from:
+
+* COVID-19 Daily Data (Thailand)
+* Source: https://data.go.th/dataset/covid-19-daily
+* Provided by the Government Data Center and Cloud Service (GDCC)
+
+---
+
+**Note:** This project is for educational and analytical purposes only.
+
+
 ## 📁 Dataset
 
 * Source: Public COVID-19 dataset (Thailand)
