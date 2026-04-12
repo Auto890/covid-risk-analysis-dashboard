@@ -6,6 +6,8 @@ This project analyzes COVID-19 risk data in Thailand using Power BI. The objecti
 
 ---
 
+## Note: This project is for educational and analytical purposes only.
+
 ## 📁 Dataset
 
 * COVID-19 Daily Data (Thailand)
