@@ -59,8 +59,3 @@ This dataset is obtained from:
 * Microsoft Excel
 
 ---
-
-## 🚀 Author
-
-Weerapat unkaeo
-
